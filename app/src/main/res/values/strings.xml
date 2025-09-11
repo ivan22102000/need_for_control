@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Need For Control</string>
+    <string name="connect_esp32">Connect ESP32</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connection_status">Connection Status:</string>
+    <string name="score">Score:</string>
+    <string name="game_over">Game Over!</string>
+    <string name="restart">Restart</string>
+</resources>
